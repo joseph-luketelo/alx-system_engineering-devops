@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'liAnuAxizec' | tr 'Ac' 'Ze'
